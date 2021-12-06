@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Jays
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me twitter.com/jaysyanshar
 
 <!---
