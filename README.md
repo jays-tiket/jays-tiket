@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jays
-- 📫 How to reach me twitter.com/jaysyanshar
+- 📫 How to reach me on Slack @jays
 
 <!---
 jays-tiket/jays-tiket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
